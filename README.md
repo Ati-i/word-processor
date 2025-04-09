@@ -65,10 +65,9 @@ A feature-rich Word Processor application built in C# with WPF. This application
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](wp.png)
 
-### Multiple Tabs
-![Multiple Tabs](wp.png)
+
 
 ---
 
